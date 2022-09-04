@@ -22,12 +22,9 @@ based upon work by LisiasT -->
 
 ## Trademarks <i class="fa-solid fa-trademark fa-beat-fade" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: black" ></i>
 
-* "Fuel Tanks Plus" is trademark of Ed T. Toton III, aka BobCat, aka Orvidius
-* "FTP" is trademark of Ed T. Toton III, aka BobCat, aka Orvidius
-* "BobCat" is trademark of Ed T. Toton III, aka BobCat, aka Orvidius
-* "Orvidius" is trademark of Ed T. Toton III, aka BobCat, aka Orvidius
-* "BobCatInd" is trademark of zer0Kerbal
-* BobCat avatar image is trademark of Ed T. Toton III, aka BobCat, aka Orvidius
+* "BobCat" is trademark of BobCat
+* "BobCat Ind" is trademark of BobCat
+* "BobCat Industries" is trademark of zer0Kerbal
 * Kerbal Simple Co is a trademark of zer0Kerbal
 * KerbSimCo is a trademark of zer0Kerbal
 * KerbSimpleCo is a trademark of zer0Kerbal
