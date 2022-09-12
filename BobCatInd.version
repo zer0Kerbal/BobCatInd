@@ -25,6 +25,6 @@
 	"INSTALL_LOC" :
 	{
 		"NAME"      : "BobCatInd",
-		"DIRECTORY" : "FuelTanksPlus/BobCatInd"
+		"DIRECTORY" : "BobCat/BobCatInd"
 	}
 }
