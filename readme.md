@@ -10,7 +10,7 @@ updated: 04 Sep 2022 -->
 [![Pages][MOD:pages:shd]][MOD:pages]
 
 
-# BobCat Industries (BOB) (BOB)
+# BobCat Industries (BOB)
 
 Adds BobCat Industries's agent, flags, and common config files used in all BobCat Industries add-ons for Kerbal Space Program.
 
