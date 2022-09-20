@@ -28,7 +28,7 @@
   * uses assets from MIR, see Attributions.md for details
 * Create
   * HeroLogo
-* closes #26 - Create HeroLogo.png
+* closes #23 - Create HeroLogo.png
 
 ### Localization
 
@@ -36,9 +36,9 @@
   * <en-us.cfg>
   * [readme.md] v2.1.2.0
   * [quickstart.md] v1.0.1.1
-* closes #25 - Create Localization directory and contents
-* updates #6 - Localization Master
-* closes #7 - English <en-us.cfg>
+* updates #5 - Localization Master
+* closes #6 - English <en-us.cfg>
+* closes #24 - Create Localization directory and contents
 
 ### docs/
 
@@ -51,10 +51,14 @@
   * [Localizations.md] v1.1.7.0
   * [Notices.md] v1.0.1.0
   * [Why.md] v1.1.0.0
-* closes #24 - Create GitHub Pages
+* closes #25 - Create GitHub Pages
 
 ### Status
 
 * Issues
+  * closes #1 - BobCat Industries (BOB) 0.9.99.0-prerelease `<Hard Hats Required>` edition
+  * closes #2 - 0.9.99.0 Verify Legal Mumbo Jumbo
+  * closes #3 - 0.9.99.0 Update Documentation
+  * closes #4 - 0.9.99.0 Update Social Media
 
 ---
