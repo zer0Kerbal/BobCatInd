@@ -11,19 +11,19 @@ created: 13 May 2022
 updated:
 this file: CC BY-ND 4.0 by zer0Kerbal --># Changelog  
   
-| modName    | BobCat Industries (BOB)                                                    |
+| modName    | BobCat Industries (BOB)                                           |
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC-BY-SA-4.0                                                      |
-| author     | BobCat and zer0Kerbal                                         |
-| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/209628-*/) |
-| github     | (https://github.com/zer0Kerbal/zer0Kerbal/BobCatInd)                 |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/BobCatInd)               |
-| spacedock  | (https://spacedock.info/mod/)                                     |
-| ckan       | BobCatInd                                                            |
+| author     | BobCat and zer0Kerbal                                             |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/209729-*/) |
+| github     | (https://github.com/zer0Kerbal/BobCatInd)                         |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/BobCatInd)            |
+| spacedock  | (https://spacedock.info/mod/3120)                                 |
+| ckan       | BobCatInd                                                         |
 
-## Version 0.9.99.0-prerelease - `<Articles of Incorporation>` edition
+## Version 0.9.99.0-prerelease - `<Hard Hats Required>` edition
 
-* 04 Sep 2022  
+* 15 Sep 2022  
 * Released for Kerbal Space Program KSP 1.12.3
 
 ### Creation by zer0Kerbal
@@ -33,11 +33,13 @@ this file: CC BY-ND 4.0 by zer0Kerbal --># Changelog
 * Agent
   * [Agents.cfg] v1.0.0.0
 * Flags
-  * [FuelTanksPlus.png]
-  * uses assets from FuelTanksPlus, see Attributions.md for details
+  * [BobCat.png]
+  * [russian.png]
+  * [soviet.png]
+  * uses assets from MIR, see Attributions.md for details
 * Create
   * HeroLogo
-* closes #24 - Create HeroLogo.png
+* closes #23 - Create HeroLogo.png
 
 ### Localization
 
@@ -45,9 +47,9 @@ this file: CC BY-ND 4.0 by zer0Kerbal --># Changelog
   * <en-us.cfg>
   * [readme.md] v2.1.2.0
   * [quickstart.md] v1.0.1.1
-* closes #25 - Create Localization directory and contents
-* updates #6 - Localization Master
-* closes #7 - English <en-us.cfg>
+* updates #5 - Localization Master
+* closes #6 - English <en-us.cfg>
+* closes #24 - Create Localization directory and contents
 
 ### docs/
 
@@ -60,14 +62,14 @@ this file: CC BY-ND 4.0 by zer0Kerbal --># Changelog
   * [Localizations.md] v1.1.7.0
   * [Notices.md] v1.0.1.0
   * [Why.md] v1.1.0.0
-* closes #26 - Create GitHub Pages
+* closes #25 - Create GitHub Pages
 
 ### Status
 
 * Issues
-  * closes #2 - BobCat Industries (BOB) 0.9.99.0-prerelease `<Articles of Incorporation>`
-  * closes #3 - 0.9.99.0 Verify Legal Mumbo Jumbo
-  * closes #4 - 0.9.99.0 Update Documentation
-  * closes #5 - 0.9.99.0 Update Social Media
+  * closes #1 - BobCat Industries (BOB) 0.9.99.0-prerelease `<Hard Hats Required>` edition
+  * closes #2 - 0.9.99.0 Verify Legal Mumbo Jumbo
+  * closes #3 - 0.9.99.0 Update Documentation
+  * closes #4 - 0.9.99.0 Update Social Media
 
 ---
