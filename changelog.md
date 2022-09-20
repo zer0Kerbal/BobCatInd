@@ -5,12 +5,12 @@
 | license    | CC-BY-SA-4.0                                                      |
 | author     | BobCat and zer0Kerbal                                             |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/209729-*/) |
-| github     | (https://github.com/zer0Kerbal/zer0Kerbal/BobCatInd)              |
+| github     | (https://github.com/zer0Kerbal/BobCatInd)                         |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/BobCatInd)            |
-| spacedock  | (https://spacedock.info/mod/)                                     |
+| spacedock  | (https://spacedock.info/mod/3120)                                 |
 | ckan       | BobCatInd                                                         |
 
-## Version 0.9.99.0-prerelease - `<Articles of Incorporation>` edition
+## Version 0.9.99.0-prerelease - `<Hard Hats Required>` edition
 
 * 15 Sep 2022  
 * Released for Kerbal Space Program KSP 1.12.3
@@ -22,8 +22,10 @@
 * Agent
   * [Agents.cfg] v1.0.0.0
 * Flags
-  * [SpaceY.png]
-  * uses assets from SpaceY Lifters, see Attributions.md for details
+  * [BobCat.png]
+  * [russian.png]
+  * [soviet.png]
+  * uses assets from MIR, see Attributions.md for details
 * Create
   * HeroLogo
 * closes #26 - Create HeroLogo.png
