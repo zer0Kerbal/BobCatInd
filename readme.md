@@ -29,22 +29,10 @@ An original creation by *KerbSimpleCo*
 >* [ChangeLog][MOD:chlog] Summary for more details of changes
 >* [Known Issues][MOD:issue] for more details of feature requests and known issues
 
----
-
-### Youtube videos
-
-#### review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
-
-[![KSP Mods - Fuel Tanks Plus](https://img.youtube.com/vi/bWo2u1lKdaY/0.jpg)](https://www.youtube.com/watch?v=bWo2u1lKdaY)
-
-#### KSP FuelTanksPlus 1.0 Overhaul by [BobCat][BobCat]
-
-[![KSP FuelTanksPlus 1.0 Overhaul](https://img.youtube.com/vi/wuxzfhtiCgI/0.jpg)](https://www.youtube.com/watch?v=wuxzfhtiCgI)
-
 ### Help Wanted
 
 > * Logo(s) for BobCat Industries
-> * *lorem ipsum* text for the Agency description
+> * *lorem ipsum* text for the Agencies' descriptions
 > * Additional flags
 > * Compatibility patches
 > * Have a request? Glad to have them, kindly submit through [GitHub][MOD:issue].
@@ -199,7 +187,6 @@ agency, flags, config
 [GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
 [ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/ "On Demand Fuel Cells"
 
-
 [mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 [mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
 [twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
@@ -209,7 +196,7 @@ agency, flags, config
 [HOME]: https://github.com/zer0Kerbal/HOME "HOME"
 [KLIPER]: https://github.com/zer0Kerbal/Kliper "Kliper"
 [LUNOKCHOD1]: https://github.com/zer0Kerbal/Lunokchod1 "Lunokchod1"
-[MIR]: https://github.com/zer0Kerbal/MIR "MIR"
+[MIR]: https://forum.kerbalspaceprogram.com/index.php?/topic/204186-*/ "MIR"
 [N1L3]: https://github.com/zer0Kerbal/N1L3 "N1L3"
 [PROGRESS]: https://github.com/zer0Kerbal/Progress "Progress"
 [PROTON]: https://github.com/zer0Kerbal/Proton "Proton"
