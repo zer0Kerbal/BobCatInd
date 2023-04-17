@@ -1,6 +1,6 @@
 ---
 permalink: /License.html
-title: CC BY-SA 4.0
+title: CC BY-SA 4.0+ARR
 ---
 <!-- CC-BY-SA-4.0.md v1.0.1.0
 BobCat Industries (BOB)
