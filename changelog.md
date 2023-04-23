@@ -10,6 +10,15 @@
 | spacedock  | (https://spacedock.info/mod/3120)                                 |
 | ckan       | BobCatInd                                                         |
 
+## Version 0.9.99.1-prerelease - `<Expansion: Мир>` edition
+
+* Released
+  * 22 Apr 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+---
+
 ## Version 0.9.99.0-prerelease - `<Hard Hats Required>` edition
 
 * 15 Sep 2022  
