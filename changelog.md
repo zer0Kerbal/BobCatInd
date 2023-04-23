@@ -17,6 +17,28 @@
   * for Kerbal Space Program 1.12.5
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
+
+### Update
+
+* Agent
+  * [Agents.cfg] v1.0.0.0
+* Flags
+  * update to 512x320
+  * convert to dds
+* Create
+  * HeroLogo
+* closes #23 - Create HeroLogo.png
+
+### Localization
+
+* Add
+  * <pr-br.cfg>
+* Update
+  * <en-us.cfg>
+* updates #5 - Localization Master
+* updates #6 - English <en-us.cfg>
+* updates #7 - Brazilian Portuguese (Português Brasil) <pt-br.cfg>
+
 ---
 
 ## Version 0.9.99.0-prerelease - `<Hard Hats Required>` edition
