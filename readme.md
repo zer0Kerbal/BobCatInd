@@ -43,6 +43,7 @@ An original creation by *KerbSimpleCo*
 ### Localization
 
 >* ![English][EN] English
+>* ![Português Brasil][BR] Português Brasil by [Lisias](https://github.com/Lisias)
 >* ***your translation here***
 
 ### Installation Directions
@@ -98,7 +99,7 @@ agency, flags, config
 
 ### Credits and Special Thanks
 
-* [BobCat][BobCat] for inspiring this addon!
+* [BobCat][bobcat] for inspiring this addon!
 * see [Attribution][attrb] for more comprehensive list
 
 ### Legal Mumbo Jumbo (License *provenance*)
@@ -193,21 +194,14 @@ Comment, click, like, share, up-vote, subscribe
 [twitch]: https://www.twitch.tv/zer0kerbal
 [twitter]: https://twitter.com/zer0Kerbal
 [youtube]: https://www.youtube.com/@zer0Kerbal
+[steam]: https://steamcommunity.com/id/zeroKerbal
+[projects]: https://zer0kerbal.github.io/zer0Kerbal/projects.html
 
 [bobcat]: https://forum.kerbalspaceprogram.com/index.php?/profile/22422-*/ "BobCat"
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
-
----
 
 #### Connect with me
 
 Track progress: issues [here][issue] and projects [here](https://github.com/zer0Kerbal/BobCatInd/projects/) along with **[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
 
-[<img align="left" alt="zer0Kerbal | kerbalspaceprogram.com" width="32px" src="https://cdn.icon-icons.com/icons2/1381/PNG/32/kerbalspaceprogram_93898.png" />][zer0Kerbal] [<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/curseforge.svg" />][curseforge] [<img align="left" alt="zer0Kerbal | reddit" width="32px" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-reddit-4661631_122483.png" />][reddit] [<img align="left" alt="zer0Kerbal | Patreon" width="32px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" />][PATREON:url] [<img align="left" alt="zer0Kerbal | YouTube" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" />][youtube] [<img align="left" alt="zer0Kerbal | Twitch" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" />][twitch] [<img align="left" alt="zer0Kerbal | PayPal" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/paypal_logo_icon_168055.png" />][PAYPAL:url] [<img align="left" alt="zer0Kerbal | Buy Me a Coffee" width="32px" src="https://www.buymeacoffee.com/assets/img/bmc-meta-new/new/favicon.ico" />][BMCC:url] [<img align="left" alt="zer0Kerbal | Twitter" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/32/Twitter_icon-icons.com_66803.png" />][twitter]</br>
-
-<!-- footnotes -->
-[^1]: this isn't a mod. ;P  
-[^2]: ***may*** work on other versions (YMMV)  
-[^3]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date!*  
-
-[//]: # (This behaves like a comment)
+[<img align="left" alt="zer0Kerbal | kerbalspaceprogram.com" width="32px" src="https://cdn.icon-icons.com/icons2/1381/PNG/32/kerbalspaceprogram_93898.png" />][zer0Kerbal] [<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/curseforge.svg" />][curseforge] [<img align="left" alt="zer0Kerbal | reddit" width="32px" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-reddit-4661631_122483.png" />][reddit] [<img align="left" alt="zer0Kerbal | Patreon" width="32px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" />][PATREON:url] [<img align="left" alt="zer0Kerbal | YouTube" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" />][youtube] [<img align="left" alt="zer0Kerbal | Twitch" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" />][twitch] [<img align="left" alt="zer0Kerbal | PayPal" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/paypal_logo_icon_168055.png" />][PAYPAL:url] [<img align="left" alt="zer0Kerbal | steam" width="32px" src="https://icons.iconarchive.com/icons/3xhumed/mega-games-pack-05/48/Steam-icon.png" />][steam] [<img align="left" alt="zer0Kerbal | Twitter" width="32px" src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/twitter-32.ico" />][twitter] [<img align="left" alt="zer0Kerbal | project list" width="32px" src="https://www.pngall.com/wp-content/uploads/5/Vector-Checklist-PNG-HD-Image-180x180.png" />][projects]</br> 
