@@ -13,28 +13,40 @@
 ## Version 0.9.99.1-prerelease - `<Expansion: Мир>` edition
 
 * Released
-  * 22 Apr 2023
+  * 24 Apr 2023
   * for Kerbal Space Program 1.12.5
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
+### Add
+
+* Flags
+  * BobCat-trans
+  * BobCat-white
+  * BobCatSlogan-gold
+  * BobCatSlogan-trans
 
 ### Update
 
 * Agent
-  * [Agents.cfg] v1.0.0.0
+  * [Agents.cfg] v1.1.1.0
 * Flags
-  * update to 512x320
+  * recreated text and logo - took awhile to match font
+  * upsize to 512x320
   * convert to dds
 * Create
+  * used recreated text and logo
   * HeroLogo
-* closes #23 - Create HeroLogo.png
 
 ### Localization
 
 * Add
-  * <pr-br.cfg>
+  * Português Brasil
+    * <pt-br.cfg> v1.0.0.0
+    * courtesy of [Lisias](https://github.com/Lisias)
 * Update
-  * <en-us.cfg>
+  * Added strings from Мир (Mir)
+    * <en-us.cfg> v1.1.0.0
+    * <pt-br.cfg> v1.1.0.0
 * updates #5 - Localization Master
 * updates #6 - English <en-us.cfg>
 * updates #7 - Brazilian Portuguese (Português Brasil) <pt-br.cfg>
@@ -43,12 +55,14 @@
 
 ## Version 0.9.99.0-prerelease - `<Hard Hats Required>` edition
 
-* 15 Sep 2022  
-* Released for Kerbal Space Program KSP 1.12.3
+* Released
+  * 15 Sep 2022  
+  * for Kerbal Space Program KSP 1.12.3
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
-### Creation by zer0Kerbal
+### Creation by [zer0Kerbal](https://github.com/zer0Kerbal)
 
-### Add
+### Add 0.9.99.0
 
 * Agent
   * [Agents.cfg] v1.0.0.0
@@ -61,7 +75,7 @@
   * HeroLogo
 * closes #23 - Create HeroLogo.png
 
-### Localization
+### Localization 0.9.99.0
 
 * Add
   * <en-us.cfg>
@@ -84,7 +98,7 @@
   * [Why.md] v1.1.0.0
 * closes #25 - Create GitHub Pages
 
-### Status
+### Status 0.9.99.0
 
 * Issues
   * closes #1 - BobCat Industries (BOB) 0.9.99.0-prerelease `<Hard Hats Required>` edition
