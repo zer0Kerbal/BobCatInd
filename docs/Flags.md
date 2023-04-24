@@ -75,6 +75,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 ### Soviet
 
  <img src="https://raw.githubusercontent.com/zer0Kerbal/BobCatInd/master/docs/Flags/Soviet.png" alt="Soviet Union" style="zoom:75%;" />
+
 [top](#flags)
 
 THIS FILE: CC BY-ND 4.0 by zer0Kerbal
