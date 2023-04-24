@@ -36,6 +36,8 @@
 * Create
   * used recreated text and logo
   * HeroLogo
+* Correct
+  * MacLuky name spelling
 
 ### Localization
 
