@@ -4,15 +4,18 @@ title: Manual Installation
 description: the flat-pack Kiea instructions, written in Kerbalese, unusally present
 tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
-<!-- ManualInstallation.md v1.1.8.1
+<!-- ManualInstallation.md v1.0.1.0
 BobCat Industries (BOB)
-created: 01 Oct 2019
-updated: 29 Jul 2022 -->
+created: 09 Sep 2023
+updated: 24 Apr 2023
 
-<!-- based upon work by Lisias -->
+TEMPLATE: ManualInstallation.md v1.1.9.0
+created: 01 Feb 2022
+updated: 27 Mar 2023
 
-# BobCat Industries (BOB)
+based upon work by Lisias -->
+
+## [BobCat Industries (BOB)][mod]
 
 [Home](./index.md)
 
@@ -51,9 +54,7 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 ```markdown
 <KSP_ROOT>
   + [GameData]
-    + [FuelTanksPlus]
-      + [Assets]
-        ...
+    + [BobCat]
       + [BobCatInd]
         + [Agencies]
           ...
@@ -65,14 +66,14 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
           ...
         + [Localization]
           ...
-        + [Parts]
+        + [Resources]
           ...
+          ManualInstallation.htm
         * #.#.#.#.htm
         * Attributions.htm
-        * changelog.md
-        * CC-BY-SA-4.0.txt
         * BobCatInd.version
-          ManualInstallation.htm
+        * CC-BY-SA-4.0.txt
+        * changelog.md
         * readme.htm
         ...
       ...
@@ -84,3 +85,7 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 ### Dependencies
 
 * none
+
+THIS FILE: CC BY-ND 4.0 by zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/BobCatInd "BobCat Industries (BOB)"
