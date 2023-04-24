@@ -17,7 +17,16 @@
   * for Kerbal Space Program 1.12.5
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
-### Add
+### Change Summary 0.9.99.1
+
+* fit, lint and polish
+* Added strings from Мир (Mir)
+* Add Português Brasil - courtesy of [Lisias](https://github.com/Lisias)
+* Add and update Flags
+* Update Hero Logo
+* Update documentation
+
+### Add 0.9.99.1
 
 * Flags
   * BobCat-trans
@@ -25,7 +34,7 @@
   * BobCatSlogan-gold
   * BobCatSlogan-trans
 
-### Update
+### Update 0.9.99.1
 
 * Agent
   * [Agents.cfg] v1.1.1.0
@@ -39,7 +48,7 @@
 * Correct
   * MacLuky name spelling
 
-### Localization
+### Localization 0.9.99.1
 
 * Add
   * Português Brasil
@@ -52,6 +61,12 @@
 * updates #5 - Localization Master
 * updates #6 - English <en-us.cfg>
 * updates #7 - Brazilian Portuguese (Português Brasil) <pt-br.cfg>
+
+### Status 0.9.99.1
+
+* Issues
+  * closes #30 - BobCat Industries (BOB) 0.9.99.1-prerelease `<Expansion: Мир>` edition
+  * closes #31 - 0.9.99.1 Additional Tasks
 
 ---
 
