@@ -10,16 +10,31 @@
 | spacedock  | (https://spacedock.info/mod/3120)                                 |
 | ckan       | BobCatInd                                                         |
 
-## Version 0.9.99.2-prerelease - `<Expansion: Proton Fitiales>` edition
+## Version 0.9.99.2-prerelease - `<Expansion: Протон Fitiales>` edition
 
 * Released
-  * 24 Apr 2023
+  * 15 May 2023
   * for Kerbal Space Program 1.12.5
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
 ### Change Summary 0.9.99.2
 
-* Added strings from Proton (PROTON)
+* Added strings from Протон (PROTON)
+* Add Spanish (Español) Localization
+  * Gracias [Fitiales](https://gitbub.com/Fitiales)
+
+### Changes 0.9.99.2
+
+* Localization
+  * Spanish (Español)
+    * Add <es-es.cfg> v1.0.0.0
+    * Gracias [Fitiales](https://gitbub.com/Fitiales)
+* Improved several part tags
+* Issues
+  * closes #33 - BobCat Industries (BOB) 0.9.99.2-prerelease `<Expansion: Протон Fitiales>` edition
+  * closes #32 - 0.9.99.2 Additional Tasks
+  * updates #5 - Localization - Master
+  * closes #9 - Spanish (Español) <es-es.cfg>
 
 ---
 
