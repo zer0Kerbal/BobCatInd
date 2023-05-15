@@ -1,7 +1,7 @@
-<!-- readme.md v0.9.99.1
+<!-- readme.md v0.9.99.2
 BobCat Industries (BOB)
 created: 20 Sep 2022
-updated: 22 Apr 2023
+updated: 15 May 2023
 
 TEMPLATE: readme.md v1.7.2.1
 created: 17 Jul 2017
@@ -44,6 +44,7 @@ An original creation by *KerbSimpleCo*
 
 >* ![English][EN] English
 >* ![Português Brasil][BR] Português Brasil by [Lisias](https://github.com/Lisias)
+>* ![Spanish (Español)][ES] Spanish (Español) - Gracias [Fitiales](https://github.com/Fitiales)
 >* ***your translation here***
 
 ### Installation Directions
@@ -188,6 +189,7 @@ Comment, click, like, share, up-vote, subscribe
 [qstart]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md "Quickstart"
 [EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png "English"
 [BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/BR.png "Português Brasil"
+[ES]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/ES.png "Español"
 
 [curseforge]: https://www.curseforge.com/members/zer0kerbal/projects
 [reddit]: https://www.reddit.com/user/zer0Kerbal
