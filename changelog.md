@@ -13,7 +13,7 @@
 ## Version 0.9.99.2-prerelease - `<Expansion: Протон Fitiales>` edition
 
 * Released
-  * 24 Apr 2023
+  * 15 May 2023
   * for Kerbal Space Program 1.12.5
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
@@ -23,7 +23,7 @@
 * Add Spanish (Español) Localization
   * Gracias [Fitiales](https://gitbub.com/Fitiales)
 
-### Changes 3.9.99.2
+### Changes 0.9.99.2
 
 * Localization
   * Spanish (Español)
