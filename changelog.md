@@ -10,6 +10,19 @@
 | spacedock  | (https://spacedock.info/mod/3120)                                 |
 | ckan       | BobCatInd                                                         |
 
+## Version 0.9.99.2-prerelease - `<Expansion: Proton Fitiales>` edition
+
+* Released
+  * 24 Apr 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Change Summary 0.9.99.2
+
+* Added strings from Proton (PROTON)
+
+---
+
 ## Version 0.9.99.1-prerelease - `<Expansion: Мир>` edition
 
 * Released
