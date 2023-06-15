@@ -21,6 +21,55 @@ this file: CC BY-ND 4.0 by zer0Kerbal --># Changelog
 | spacedock  | (https://spacedock.info/mod/3120)                                 |
 | ckan       | BobCatInd                                                         |
 
+## Version 0.9.99.3-prerelease - `<Спасибо evanisrael>` edition
+
+* Released
+  * 15 Jun 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Change Summary 0.9.99.3
+
+* Localize
+  * ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский)
+  * Спасибо [evanisrael](https://github/evanisrael)
+
+#### Localization 0.9.99.3
+
+* Add
+  * Russian (Русский)
+    * [ru.cfg] v1.0.0.0
+    * Спасибо [evanisrael](https://github/evanisrael)
+  Translation guides
+    * [readme-ru.md] v1.0.1.0
+    * [quickstart-ru.md] v1.0.0.0
+    * Спасибо [evanisrael](https://github/evanisrael)
+* Update
+  * [en-us.cfg] v1.1.0.1
+  * [es-es.cfg] v1.0.1.1
+  * [ru.cfg] v1.0.1.0
+    * add header, give credit
+* closes #13 - Russian (Русский) <ru.cfg>
+* updates #9 - Spanish (Español) <es-es.cfg>
+* updates #5 - Localization - Master
+
+#### Documentation 0.9.99.3
+
+* Update
+  * [404.md] v1.0.3.0
+  * [Attributions.md] v1.0.2.0
+  * [Localizations.md] v1.0.3.0
+  * [readme.md] v0.9.99.3
+  * [releaseLayout] v0.9.99.3
+
+### Status 0.9.99.3
+
+* Issues
+  * closes #37 - BobCat Industries (BOB) 0.9.99.3-prerelease `<Спасибо evanisrael>` edition
+  * closes #38 - 0.9.99.3 Additional Tasks
+
+---
+
 ## Version 0.9.99.2-prerelease - `<Expansion: Протон Fitiales>` edition
 
 * Released
@@ -60,7 +109,7 @@ this file: CC BY-ND 4.0 by zer0Kerbal --># Changelog
 
 * fit, lint and polish
 * Added strings from Мир (Mir)
-* Add Português Brasil - courtesy of [Lisias](https://github.com/Lisias)
+* Add Português Brasil - Obrigado [Lisias](https://github.com/Lisias)
 * Add and update Flags
 * Update Hero Logo
 * Update documentation
@@ -92,7 +141,7 @@ this file: CC BY-ND 4.0 by zer0Kerbal --># Changelog
 * Add
   * Português Brasil
     * <pt-br.cfg> v1.0.0.0
-    * courtesy of [Lisias](https://github.com/Lisias)
+    * Obrigado [Lisias](https://github.com/Lisias)
 * Update
   * Added strings from Мир (Mir)
     * <en-us.cfg> v1.1.0.0
