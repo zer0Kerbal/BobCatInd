@@ -5,10 +5,10 @@ description: The Opening Credits, and the closing credits, plus the first of two
 tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!--
-Attributions.md v1.0.1.0
+Attributions.md v1.0.2.0
 BobCat Industries (BOB)
 created: 09 Sep 2023
-updated: 24 Apr 2023
+updated: 15 Jun 2023
 
 TEMPLATE: Attributions.md v1.0.9.0
 created: 01 Feb 2022
@@ -58,8 +58,9 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 <ul>
   <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/EN.png " alt="English" style="zoom:100%;" /> English</li>
-  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/BR.png " alt="Português Brasil" style="zoom:100%;" /> Brazilian (Português Brasil) - courtesy of <a href="https://github.com/Lisias" alt="Lisias">Lisias</a></li>
-  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/ES.png" alt="Spanish (Español)" style="zoom:100%" > Spanish (Español)</a> ¡Gracias <a href="https://github.com/Fitiales" alt="Fitiales">Fitiales!</a></li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/BR.png " alt="Português Brasil" style="zoom:100%;" /> Brazilian (Português Brasil) - obrigado <a href="https://github.com/Lisias" alt="Lisias">Lisias</a></li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/ES.png" alt="Spanish (Español)" style="zoom:100%" > Spanish (Español)</a> gracias <a href="https://github.com/Fitiales" alt="Fitiales">Fitiales!</a></li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/RU.png" alt="Russian (Русский)" style="zoom:100%;" /> Russian (Русский) - спасибо <a href="https://github.com/evanisrael" alt="evanisrael">evanisrael</a></li>
   <li><small>Additions and corrections welcome!</small></li>
 </ul>
 
