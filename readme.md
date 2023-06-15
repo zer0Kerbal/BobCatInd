@@ -41,8 +41,9 @@ An original creation by *KerbSimpleCo*
 ### Localization
 
 >* ![English][EN] English
->* ![Português Brasil][BR] Português Brasil by [Lisias](https://github.com/Lisias)
->* ![Spanish (Español)][ES] Spanish (Español) - gracias [Fitiales](https://github.com/Fitiales)>* ![Russian (Русский)][RU] Russian (Русский) - спасибо [evanisrael](https://github/evanisrael)
+>* ![Português Brasil][BR] Português Brasil - obrigado [Lisias](https://github.com/Lisias)
+>* ![Spanish (Español)][ES] Spanish (Español) - gracias [Fitiales](https://github.com/Fitiales)
+>* ![Russian (Русский)][RU] Russian (Русский) - спасибо [evanisrael](https://github/evanisrael)
 >* ***your translation here***
 
 ### Installation Directions
