@@ -98,7 +98,7 @@
 
 * fit, lint and polish
 * Added strings from Мир (Mir)
-* Add Português Brasil - courtesy of [Lisias](https://github.com/Lisias)
+* Add Português Brasil - Obrigado [Lisias](https://github.com/Lisias)
 * Add and update Flags
 * Update Hero Logo
 * Update documentation
@@ -130,7 +130,7 @@
 * Add
   * Português Brasil
     * <pt-br.cfg> v1.0.0.0
-    * courtesy of [Lisias](https://github.com/Lisias)
+    * Obrigado [Lisias](https://github.com/Lisias)
 * Update
   * Added strings from Мир (Mir)
     * <en-us.cfg> v1.1.0.0
