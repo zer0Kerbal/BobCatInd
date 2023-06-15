@@ -4,21 +4,18 @@ title: Localizations
 description: camera goes *click-click*
 tags: translations,localizations,languages,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-<!-- Localizations.md v1.0.2.0
+<!-- Localizations.md v1.0.3.0
 BobCat Industries (BOB)
 created: 09 Sep 2023
-updated: 15 May 2023
+updated: 15 Jun 2023
 
 TEMPLATE: Localizations.md v1.1.9.0
 created: 01 Feb 2022
 updated: 24 Mar 2023
 
 THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
-
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
-<div class="fa-3x">
-  <i class="fa fa-language fa-beat-fade" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25; color: #BADA55"></i>
-</div>
+<div class="fa-3x"> <i class="fa fa-language fa-beat-fade" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25; color: #BADA55"></i></div>
 
 ## [BobCat Industries (BOB)][mod]
 
@@ -27,7 +24,9 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 has been translated into the following languages:
 
 * ![English][EN] English <us-en.cfg>
+* ![Português Brasil][BR] Brazilian Portuguese (Português Brasil) <pt-br.cfg>
 * ![Español][ES] Spanish (Español) <es-es.cfg>
+* ![Русский][RU] Russian (Русский) <ru.cfg>
 
 __These localizations for KSP and its DLC's are available through Steam:__
 
@@ -35,8 +34,6 @@ __These localizations for KSP and its DLC's are available through Steam:__
 * ![Français][FR] French (Français) <fr-fr.cfg>
 * ![Italiano][IT] Italian (Italiano) <it-it.cfg>
 * ![日本語][JA] Japanese(日本語) <ja.cfg>
-* ![Português Brasil][BR] Brazilian Portuguese (Português Brasil) <pt-br.cfg>
-* ![Русский][RU] Russian (Русский) <ru.cfg>
 * ![简体中文][CN] Simplified Chinese (简体中文) <zh-cn.cfg>
 
 ## Additionally Included
